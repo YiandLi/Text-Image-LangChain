@@ -30,9 +30,9 @@ U can both run them, and the two different captions will be combined and saved.
 ## 🔨 TODO
 - [ ] Try much more powerful model : in the project, I used Flamingo-mini and Clip-16 , however the performance sometimes is not good
 - [ ] Read users' image
-- [ ] Gradio demonstration
-<!-- - [x] --> 
+- [ ] Gradio demonstration 
 ...
+<!-- - [x] --> 
 
 ## 📮 Contact
 mail @ **Yliu8258@usc.edu**
