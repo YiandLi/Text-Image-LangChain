@@ -1,5 +1,6 @@
+# Text-Image-LangChain
 
-## Description
+## 🤖️ Description
 This is a project based on LangChain, together with multi-modal models, aiming at understand, save, retrieve or even create images in the (retrieval-augmented) dialogue system.
 
 There have been so many great works based on LangChain (Thx for developers). However, when it comes to image-type documents, many limitations still exist, including:
@@ -36,29 +37,31 @@ U can both run them, and the two different captions will be combined and saved.
 ## 📮 Contact
 mail @ **Yliu8258@usc.edu**
 
-## Reference
+## 📒 Reference
 - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain)
 - [Language Models Can See: Plugging Visual Controls in Text Generation](https://github.com/yxuansu/MAGIC)
 - [flamingo-mini](https://github.com/dhansmair/flamingo-mini)
 
-## 🏷️ Citation
-<details> 
-  @article{su2022language,
-    title={Language Models Can See: Plugging Visual Controls in Text Generation},
-    author={Su, Yixuan and Lan, Tian and Liu, Yahui and Liu, Fangyu and Yogatama, Dani and Wang, Yan and Kong, Lingpeng and Collier, Nigel},
-    journal={arXiv preprint arXiv:2205.02655},
-    year={2022}
-  }
-  @article{su2022contrastive,
-    title={A Contrastive Framework for Neural Text Generation},
-    author={Su, Yixuan and Lan, Tian and Wang, Yan and Yogatama, Dani and Kong, Lingpeng and Collier, Nigel},
-    journal={arXiv preprint arXiv:2202.06417},
-    year={2022}
-  }
-  @article{Alayrac2022Flamingo,
-      title   = {Flamingo: a Visual Language Model for Few-Shot Learning},
-      author  = {Jean-Baptiste Alayrac et al},
-      year    = {2022}
-  }
-</details> 
-# Text-Image-LangChain
+
+<details>  
+  <summary> citation </summary>
+    ```
+    @article{su2022language,
+      title={Language Models Can See: Plugging Visual Controls in Text Generation},
+      author={Su, Yixuan and Lan, Tian and Liu, Yahui and Liu, Fangyu and Yogatama, Dani and Wang, Yan and Kong, Lingpeng and Collier, Nigel},
+      journal={arXiv preprint arXiv:2205.02655},
+      year={2022}
+    }
+    @article{su2022contrastive,
+      title={A Contrastive Framework for Neural Text Generation},
+      author={Su, Yixuan and Lan, Tian and Wang, Yan and Yogatama, Dani and Kong, Lingpeng and Collier, Nigel},
+      journal={arXiv preprint arXiv:2202.06417},
+      year={2022}
+    }
+    @article{Alayrac2022Flamingo,
+        title   = {Flamingo: a Visual Language Model for Few-Shot Learning},
+        author  = {Jean-Baptiste Alayrac et al},
+        year    = {2022}
+    }
+    ```
+</details>
