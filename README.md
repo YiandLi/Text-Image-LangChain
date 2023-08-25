@@ -45,23 +45,24 @@ mail @ **Yliu8258@usc.edu**
 
 <details>  
   <summary> citation </summary>
-    ```
-    @article{su2022language,
-      title={Language Models Can See: Plugging Visual Controls in Text Generation},
-      author={Su, Yixuan and Lan, Tian and Liu, Yahui and Liu, Fangyu and Yogatama, Dani and Wang, Yan and Kong, Lingpeng and Collier, Nigel},
-      journal={arXiv preprint arXiv:2205.02655},
-      year={2022}
-    }
-    @article{su2022contrastive,
-      title={A Contrastive Framework for Neural Text Generation},
-      author={Su, Yixuan and Lan, Tian and Wang, Yan and Yogatama, Dani and Kong, Lingpeng and Collier, Nigel},
-      journal={arXiv preprint arXiv:2202.06417},
-      year={2022}
-    }
-    @article{Alayrac2022Flamingo,
-        title   = {Flamingo: a Visual Language Model for Few-Shot Learning},
-        author  = {Jean-Baptiste Alayrac et al},
-        year    = {2022}
-    }
-    ```
+  
+  ```
+  @article{su2022language,
+    title={Language Models Can See: Plugging Visual Controls in Text Generation},
+    author={Su, Yixuan and Lan, Tian and Liu, Yahui and Liu, Fangyu and Yogatama, Dani and Wang, Yan and Kong, Lingpeng and Collier, Nigel},
+    journal={arXiv preprint arXiv:2205.02655},
+    year={2022}
+  }
+  @article{su2022contrastive,
+    title={A Contrastive Framework for Neural Text Generation},
+    author={Su, Yixuan and Lan, Tian and Wang, Yan and Yogatama, Dani and Kong, Lingpeng and Collier, Nigel},
+    journal={arXiv preprint arXiv:2202.06417},
+    year={2022}
+  }
+  @article{Alayrac2022Flamingo,
+      title   = {Flamingo: a Visual Language Model for Few-Shot Learning},
+      author  = {Jean-Baptiste Alayrac et al},
+      year    = {2022}
+  }
+  ```
 </details>
